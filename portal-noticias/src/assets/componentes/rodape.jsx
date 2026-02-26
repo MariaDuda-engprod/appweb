@@ -3,7 +3,7 @@ function Rodape() {
 
     return (
       <>
-    <h1>Rodape</h1>
+    <h1 className='faixa'>@Feito pela MARIA EDUARDA</h1>
        
       </>
     )
