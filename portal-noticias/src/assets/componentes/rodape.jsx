@@ -3,7 +3,7 @@ function Rodape() {
 
     return (
       <>
-    <h1>  Rodape</h1>
+    <h1>Rodape</h1>
        
       </>
     )

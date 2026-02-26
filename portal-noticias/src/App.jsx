@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 
 
 import './App.css'
-import Rodape from './assets/componentes/home'
+import Rodape from './assets/componentes/rodape'
 import Menu from './assets/componentes/menu'
 import Home from './assets/componentes/home'
 
